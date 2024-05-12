@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[536],{7636:e=>{e.exports=JSON.parse('[{"type":"link","href":"/api/LootTable","label":"\u200bLoot\u200bTable"}]')}}]);

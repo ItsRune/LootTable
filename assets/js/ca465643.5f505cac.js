@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[385],{3891:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/ItsRune/LootTable/blob/master","baseUrl":"/LootTable/","classOrder":[],"apiCategories":[]}')}}]);
