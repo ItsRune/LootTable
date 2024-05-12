@@ -1,0 +1,12 @@
+{
+  "name": "LootTable",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "LootTable": {
+        "$path": "module"
+      }
+    }
+  }
+}
