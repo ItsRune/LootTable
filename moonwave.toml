@@ -1,6 +1,7 @@
 gitRepoUrl = "https://github.com/ItsRune/LootTable"
 # classOrder = ["LootTable"]
 autoSectionPath = "module"
+gitSourceBranch = "master"
 
 # Docusaurus settings
 [docusaurus]

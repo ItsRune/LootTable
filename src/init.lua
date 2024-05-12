@@ -1,11 +1,23 @@
 --!strict
----@class LootTable
+--[=[
+	@class LootTable
+	A module that allows developers to create simple loot tables.
+]=]
+--
 
 local LootTable = {}
 local Class = {}
 Class.__index = Class
 
 --// Public Functions \--
+--[=[
+	Creates a new loot table.
+	@return LootTable
+
+	@within LootTable
+	@since 1.0.0
+]=]
+--
 function LootTable.new()
 	local self = setmetatable({}, Class)
 
